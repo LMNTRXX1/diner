@@ -1,0 +1,141 @@
+.bar {
+    background: #020F1C;
+    /* background: url(../img/Group\ 15.png)no-repeat center / cover; */
+
+}
+
+
+.bar__photo {
+    margin-left: 370px;
+}
+
+
+.bar__wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 100px 0;
+}
+
+
+.bar__left {
+    max-width: 716px;
+}
+
+
+.area__container-max {
+    width: 1290px;
+    margin: 0 auto;
+}
+
+
+.bar__right {
+    width: 520px;
+    margin-top: -200px;
+    position: absolute;
+    left: 730px;
+
+}
+
+
+.bar__card {
+    position: relative;
+}
+
+
+.bar__flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.bar__title {
+    font-family: 'Lumberjack';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #D6258F;
+    margin-bottom: 20px;
+}
+
+
+.bar__prices {
+    font-family: 'Lumberjack';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #D6258F;
+}
+
+
+.bar__prices span {
+    display: flex;
+}
+
+
+.bar__subtitle {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+    width: 300px;
+    margin-bottom: 30px;
+}
+
+
+.bar__btn {
+    font-style: normal;
+    font-family: 'Roboto Condensed';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #FFFFFF;
+    border: 2px solid #D6258F;
+    border-radius: 20px;
+    padding: 20px 469px;
+    background: #020F1C;
+    cursor: pointer;
+}
+
+.bar__subbtitle {
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 40px 0 140px;
+}
+
+
+.bar__dashed {
+    border: 1px dashed rgba(255, 255, 255, 0.4);
+    padding-left: 450px;
+}
+
+
+.bar__dashedd {
+    border: 1px dashed rgba(255, 255, 255, 0.4);
+    padding-left: 450px;
+    margin-left: 30px;
+}
+
+
+.bar__dasheddd {
+    border: 1px dashed rgba(255, 255, 255, 0.4);
+    padding-left: 450px;
+    margin-right: 60px;
+
+}
+
+
+.bar__dashedddd {
+    border: 1px dashed rgba(255, 255, 255, 0.4);
+    padding-left: 450px;
+}

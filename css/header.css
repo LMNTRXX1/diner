@@ -1,0 +1,36 @@
+.header {
+    background: #09090A;
+    padding: 10px 0;
+}
+
+
+.header__wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.header__menu {
+    display: flex;
+    gap: 30px;
+}
+
+
+.header__link {
+    font-family: 'Lumberjack';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+    transition: 200ms;
+}
+
+
+.header__link:hover {
+    text-shadow: 0 0 0.6px,
+        0 0 0.7px,
+        0 0 0.8px;
+    opacity: 1;
+}

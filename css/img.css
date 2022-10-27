@@ -1,0 +1,43 @@
+.img {
+    background: url(../img/bg.png)no-repeat center / cover;
+}
+
+.img__title {
+    font-family: 'Lumberjack';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 76px;
+    text-align: center;
+    /* border: 1.28333px solid #FFFFFF; */
+    filter: blur(0.213889px);
+    padding: 100px 0 60px;
+}
+
+.img__wrapper {
+    /* display: flex; */
+    /* align-items: center; */
+    /* text-align: center; */
+    margin-left: 30px;
+}
+
+.img__block {
+    display: flex;
+    gap: 30px;
+    /* width: 410px; */
+    /* height: 410px; */
+    /* padding-bottom: 40px; */
+}
+
+.img__block2 {
+    display: flex;
+    gap: 30px;
+    /* width: 410px; */
+    /* height: 410px; */
+    padding: 40px 0 100px;
+}
+
+
+.img__img{
+    width: 390px;
+}

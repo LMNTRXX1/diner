@@ -1,0 +1,26 @@
+.desc {
+    background: url(../img/Rectangle\ 6.png) no-repeat center / cover;
+    padding: 180px 0;
+
+}
+
+.desc__title {
+    font-family: 'Lumberjack';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 57px;
+    color: #D6258F;
+    text-align: center;
+    padding: 20px;
+}
+
+.desc__text {
+    font-family: 'Lumberjack';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    color: #FFFFFF;
+}
